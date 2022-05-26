@@ -12,7 +12,7 @@ by adding and changing elements on the DOM.
 
 **Hint**: One way of evaluating mathematical expressions is [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval). Another way is by using the [math.js](http://mathjs.org/) library.
 
-_Caution🚨 you might find examples that use the onClick property, but there are a couple of reasons not to:  
+_Caution🚨 you might find examples that use the onClick property, but there are a couple of reasons not to:_  
 -If you use it, you won’t get to learn how to respond to any of the many other kinds of events (like mouseover and keyboard events)
 - Event listeners are generally preferred, and you can read more about why [here](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick).
 
